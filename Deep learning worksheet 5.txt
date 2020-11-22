@@ -1,0 +1,32 @@
+DEEP LEARNING - WORKSHEET 5
+1 all of the above
+2.Sigmoids do not saturate and hence have faster convergence
+3.Swish 
+4.True
+5. Xavier Initialisation
+6.learning rate shrinks and becomes infinitesimally small
+7. momentum must be low and learning rate must be high
+8. none of these
+9.ADAM
+10.) when it reaches a local minima which is similar to global minima (i.e. which has very less error distance
+with global minima) 
+
+11.Conver optimization-Convex optimization is a subfield of mathematical optimization that studies the problem of minimizing convex functions over convex sets.
+   non-convex optimization - A NCO is any problem where the objective or any of the constraints are non-convex. Even simple looking problems with as few as ten variables can be 
+   extremely challenging, 
+   while problems with a few hundreds of variables can be intractable
+
+12.In mathematics, a saddle point or minimax point is a point on the surface of the graph of a function where the slopes (derivatives) in orthogonal directions are all zero 
+   (a critical point), 
+   but which is not a local extremum of the function.
+
+13.The main difference is in classical momentum you first correct your velocity and then make a big step according to that velocity (and then repeat), but in 
+   Nesterov momentum, you first make a step into 
+   velocity direction and then make a correction to a velocity vector based on a new location (then repeat).
+
+14.Initializing the weights this way is referred to as using a pre-trained network. The first network is your pre-trained network. The second one is the network you are fine-tuning. 
+   The idea behind pre-training is that random initialization is...well...random, 
+   the values of the weights have nothing to do with the task you're trying to solve.
+
+15.We define Internal Covariate Shift as the change in the distribution of network activations due to the change in network parameters during training. In neural networks, 
+   the output of the first layer feeds into the second layer, the output of the second layer feeds into the third, and so on.
