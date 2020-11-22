@@ -1,0 +1,25 @@
+1 . len()
+2.  compiled then interpreted 
+3.   [1,2,2,1]
+4.   [40,30,20,10]
+5.   [ : :-1]
+6.    Meena
+7.   [“World Hello ”, “Python Hello ”, “World Adios ”, “Python Adios ”]
+8.   4
+9.   append(l1,l2)
+
+10. Difference Between Compiler and Interpreter
+
+
+featuredA compiler is a translator which transforms source language (high-level language) into object language (machine language). 
+In contrast with a compiler, an interpreter is a program which imitates the execution of programs written in a source language. Another difference between Compiler and interpreter 
+is that Compiler converts the whole program in one go on the other hand Interpreter converts the program by taking a single line at a time.
+
+
+11.PYTHONPATH is an environment variable which you can set to add additional directories where python will look for modules and packages. For most installations, you should not 
+set these variables since they are not needed for Python to run. Python knows where to find its standard library.
+
+
+
+12.Remove (strip) space at the start of the string in Python – trim leading space Remove (strip) space at the end of the string in Python – trim trailing space Remove (strip) 
+white spaces from start and end of the string – trim space. Remove all the spaces in python
